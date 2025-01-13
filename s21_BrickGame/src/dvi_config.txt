@@ -1,0 +1,9 @@
+# Это комментарий
+PROJECT_NAME           = "Tetris"
+INPUT                  = ./build/tetris.h
+FILE_PATTERNS          = *.h 
+OUTPUT_DIRECTORY       = "./doc"
+OUTPUT_LANGUAGE        = Russian
+EXTRACT_ALL = YES
+EXTRACT_PRIVATE = YES
+EXTRACT_STATIC = YES
